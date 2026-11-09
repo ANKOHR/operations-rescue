@@ -1,0 +1,9 @@
+Python 3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]
+Windows-11-10.0.26200-SP0
+SQLite 3.49.1
+streamlit 1.67.0; Requires-Python: >=3.11
+pytest 9.2.0; Requires-Python: >=3.10
+tzdata 2026.6; Requires-Python: >=2
+
+pip check:
+No broken requirements found.
